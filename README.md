@@ -30,3 +30,4 @@
 - 加入止损机制控制回撤
 - 引入市场环境过滤（如成交量、波动率）
 - 多只股票同时回测，比较策略普适性
+ https://cahngge.github.io/double-ma-strategy/Untitled2.html
